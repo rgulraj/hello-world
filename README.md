@@ -1,3 +1,3 @@
 # hello-world
 Learning
-Learning to use GIt Hub is fun
+Learning to use Git Hub is hard
